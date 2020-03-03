@@ -16,34 +16,6 @@
 Java bindings 被列入了支持列表，这几天准备出一个springboot的集成教程
 
 
-
-
-
-## QQ 4群 
-
-群号：884017356
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PyTorch Handbook 交流4群" title="PyTorch Handbook 交流4群"></a>
-
-扫描二维码
-
-![QR](Pytorch-Handbook-4.png) 
-
-[点击链接加入群聊 『PyTorch Handbook 交流4群』](//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb)
-
-1群(985896536)已满，2群(681980831) 3群(773681699)已满
-
-不要再加了
-
-## 说明
-
-- 修改错别字请直接提issue或PR
-
-- PR时请注意版本
-
-- 有问题也请直接提issue
-
-感谢
-
 ## 目录
 
 ### 第一章：PyTorch 入门
